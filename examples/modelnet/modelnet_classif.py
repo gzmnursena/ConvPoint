@@ -18,7 +18,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.utils.data
 
-import ../../utils.metrics as metrics
+import utils.metrics as metrics
 
 def get_data(rootdir, files):
 
